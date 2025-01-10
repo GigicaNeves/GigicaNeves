@@ -3,7 +3,7 @@
 
 <h1></h1>
 
-<p><img align="center" height="400" width="1080" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2aG9ncGQ2MnBqcGo5YjRzZGtlbnJzZ3Zpa3N4bWQ4ZWNxdnhycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g98k5Eg6j03mM/giphy.webp" /></p>
+<p><img align="center" height="560" width="1080" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" /></p>
 
 - 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
 
