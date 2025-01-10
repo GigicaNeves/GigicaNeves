@@ -1,28 +1,35 @@
 <h1 align="center">Oie, eu sou a Gih Neves 🌟</h1>
 
-<table align="center" valign="center">
-        <tr>
-                <td ><h3>
+<h3>
         Sou apaixonada por desenhos animados, onde personagens moldam seus mundos com criatividade e visão.  
         Essa paixão me inspira a encarar desafios e buscar soluções inovadoras.  
         A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
-      </h3></td>
-        </tr>
-</table>
+      </h3>
 
 
 <h1 align="center"><img height="340" width="600" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" /></h1>  
 
 
 <table align="center">
-  
   <tr>
     <td align="center" valign="center">
       <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
     </td>
      <td align="center" valign="center">
-      <img height="200" width="370" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
+      <img height="120" width="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+          <td align="center" valign="center">
+      <img height="120" width="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
+    </td>
+    <td align="center" valign="center">
+      <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
+    </td>
+
   </tr>
 </table>
 
