@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <img height="380" width="600" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" />
+      <img height="180" width="300" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" />
     </td>
     <td>
       <h3 align="center">
