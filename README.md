@@ -1,17 +1,20 @@
 <h1 align="center">Oie, eu sou a Gih Neves 🌟</h1>
 
-<table align="center">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td>
-      <img height="180" width="300" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" />
+    <td align="center" valign="top" bgcolor="#f9f9f9">
+      <img height="380" width="600" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" />
     </td>
-    <td>
-      <h3 align="center">
-        Sou apaixonada por desenhos animados, onde personagens moldam seus mundos com criatividade e visão. Essa paixão me inspira a encarar desafios e buscar soluções inovadoras. A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
+    <td align="left" valign="top" bgcolor="blue">
+      <h3>
+        Sou apaixonada por desenhos animados, onde personagens moldam seus mundos com criatividade e visão.  
+        Essa paixão me inspira a encarar desafios e buscar soluções inovadoras.  
+        A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
       </h3>
     </td>
   </tr>
 </table>
+
 
 
 - 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
