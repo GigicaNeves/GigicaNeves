@@ -5,7 +5,7 @@
         A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
       </h3>
 
-  <img height="510" width="1080" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" />
+<h1 align="center"><img height="340" width="600" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" /></h1>  
 
 
 <table align="center">
