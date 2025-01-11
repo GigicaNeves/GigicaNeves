@@ -22,20 +22,20 @@
 <br>
 
 <table align="center">
-  <tr>
+  <tr height="120" width="1080" >
     <td align="center" valign="center">
       <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
     </td>
-     <td align="center" valign="center">
-      <img height="120" width="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
+     <td align="center" valign="center" >
+      <img height="140" width="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
     </td>
   </tr>
 </table>
 
 <table align="center">
-  <tr>
+  <tr height="120" width="1080" >
           <td align="center" valign="center">
-      <img height="120" width="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
+      <img height="140" width="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG52dXFvOGt3b2t0MWF3a3Fkc3dkNGNhcDM5Mnc3aXJqbHQzdmFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APilHtfEdZwAwj5VcS/giphy.webp" />
     </td>
     <td align="center" valign="center">
       <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
