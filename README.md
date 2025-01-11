@@ -10,8 +10,9 @@
 
 <h1 align="center">
         <img height="150" width="270" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" /> 
-        <img height="150" width="270"src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1079.gif" /> 
-        <img height="150" width="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAweHcwbnl2d3p2OWU4ZHRmNTE1ZzVweTZxczVrdTk4emI2MDhxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g98k5Eg6j03mM/giphy.webp" /></h1>  
+                <img height="150" width="270" src="https://media0.giphy.com/media/Fl7K2cgGi8K6Q/giphy.gif?cid=6c09b9521vgpeyxkdv0niv4holdkz6i7u576x6r3zso8tqgz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+        <img height="150" width="270"src="https://media4.giphy.com/media/XwzmDnasOtKmY/giphy.gif?cid=6c09b952jm5sz3o027kapk28oemajnvptzeqr9yram3cln1g&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> 
+</h1>  
 
 <br>
 
@@ -117,12 +118,6 @@
     </td>
   </tr>
 </table> 
-
-<div>
- <a href="https://github.com/Rickkcastro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gigicaneves&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigicaneves&layout=compact&langs_count=16&theme=holi"/>
-</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigicaneves&show_icons=true&locale=en&layout=compact&theme=holi" alt="gigicaneves" /></p>
 
