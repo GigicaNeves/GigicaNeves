@@ -1,7 +1,5 @@
 <h1 align="center">Oie, eu sou a Gih Neves 🌟</h1>
 
-<br>
-
 <h3>
         Sou apaixonada por desenhos animados, onde personagens moldam seus mundos com criatividade e visão.  
         Essa paixão me inspira a encarar desafios e buscar soluções inovadoras.  
