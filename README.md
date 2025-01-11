@@ -6,6 +6,7 @@
         A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
       </h3>
 
+<br>
 
 <h1 align="center"><img height="150" width="270" src="https://i.pinimg.com/originals/72/9f/30/729f309ab7e2515452acfe0d26bc7342.gif" /> <img height="150" width="270"src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1079.gif" /> <img height="150" width="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAweHcwbnl2d3p2OWU4ZHRmNTE1ZzVweTZxczVrdTk4emI2MDhxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g98k5Eg6j03mM/giphy.webp" /></h1>  
 
