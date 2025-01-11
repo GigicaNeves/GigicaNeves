@@ -11,7 +11,15 @@
 
 <br>
 
-<table align="center">
+
+
+- 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
+
+- 📫 Como me achar **giovanna.neves@sou.inteli.edu.br**
+
+- ⚡ Fato divertido **Além de desenhos eu amo andar a cavalo e fazer doces**
+
+- <table align="center">
   <tr>
     <td align="center" valign="center">
       <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
@@ -33,12 +41,6 @@
 
   </tr>
 </table>
-
-- 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
-
-- 📫 Como me achar **giovanna.neves@sou.inteli.edu.br**
-
-- ⚡ Fato divertido **Além de desenhos eu amo andar a cavalo e fazer doces**
 
 <h3 align="left">Conecte-se Comigo:</h3>
 
