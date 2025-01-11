@@ -38,6 +38,8 @@
 
 <p><img  width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3cnZpZjBnbWwzeTZ5bGE4dHp0ZDVqOXEwYWl5cHAxaXViM3Z4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHRP7nAicEggw/200.webp" /></p>
 
+<br>
+
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <table align="left">
@@ -118,6 +120,10 @@
     </td>
   </tr>
 </table> 
+
+<br>
+
+<h3 align="left">Estatísticas do GitHub:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigicaneves&show_icons=true&locale=en&theme=holi" alt="gigicaneves" /></p>
 
