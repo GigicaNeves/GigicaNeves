@@ -159,4 +159,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigicaneves&show_icons=true&locale=en&theme=holi" alt="gigicaneves" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gigicaneves&theme=elegant" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://avatars.githubusercontent.com/u/194012806?v=4" alt="gigicaneves" /></p>
