@@ -19,7 +19,9 @@
 
 - ⚡ Fato divertido **Além de desenhos eu amo andar a cavalo e fazer doces**
 
-- <table align="center">
+<br>
+
+<table align="center">
   <tr>
     <td align="center" valign="center">
       <h4 align="center" valign="center">Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)</h4>
