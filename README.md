@@ -26,7 +26,7 @@
 
 - ⚡ Fato divertido **Além de desenhos eu amo andar a cavalo e fazer doces**
 
-- 😀 Estou sendo auxiliada pela Buddie [Mariana de Paula Barbosa Souza](https://github.com/MariMari0945)
+- 😀 Estou sendo auxiliada pela buddy [Mariana de Paula Barbosa Souza](https://github.com/MariMari0945)
 
 
 <br>
