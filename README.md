@@ -19,7 +19,7 @@
 
 - 👩‍💻 Técnica em Desenvolvimento de Sistemas - concluído (jan 2022 - dez 2024)
 
-- 📫 Como me achar **giovanna.neves@sou.inteli.edu.br/gigicanves@gmail.com**
+- 📫 Como me achar **giovanna.neves@sou.inteli.edu.br/giovanna.nevesrodrigues07@gmail.com**
 
 - 💻 Meu github pessoal **https://github.com/GigicaNves**
 
