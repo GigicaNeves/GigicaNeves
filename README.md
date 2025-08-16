@@ -1,10 +1,8 @@
-<h1 align="center">Oie, eu sou a Gih Neves 🌟</h1>
+<h1 align="left">Oii,</h1>
 
-<h3>
-        Sou apaixonada por desenhos animados, onde personagens moldam seus mundos com criatividade e visão.  
-        Essa paixão me inspira a encarar desafios e buscar soluções inovadoras.  
-        A gestão de projetos e a tecnologia vêm depois, como ferramentas para transformar essas ideias em realidade.
-      </h3>
+<h4>
+        Meu nome é Giovanna Neves e sou desenvolvedora full stack. Sou formada como técnica em Desenvolvimento de Sistemas e atualmente curso Sistemas de Informação no Inteli – Instituto de Tecnologia e Liderança. No Inteli, desenvolvo projetos práticos em parceria com empresas, aplicando soluções para problemas reais.
+      </h4>
 
 <br>
 
@@ -17,20 +15,15 @@
 <br>
 
 
+- 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/) - em andamento (jan 2025 - dez 2028)
 
-- 🔭 Sou estudante de Sistemas da Informação [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
-
-- 👩‍💻 Tecnica em Desenvolvimento de Sistemas
+- 👩‍💻 Técnica em Desenvolvimento de Sistemas - concluído (jan 2022 - dez 2024)
 
 - 📫 Como me achar **giovanna.neves@sou.inteli.edu.br/gigicanves@gmail.com**
 
-- ⚡ Fato divertido **Além de desenhos eu amo andar a cavalo e fazer doces**
-
-- 😀 Estou sendo auxiliada pela buddy [Mariana de Paula Barbosa Souza](https://github.com/MariMari0945)
-
+- 💻 Meu github pessoal **https://github.com/GigicaNves**
 
 <br>
-
 
 <h3 align="left">Conecte-se Comigo:</h3>
 
@@ -38,6 +31,13 @@
 <a href="https://www.linkedin.com/in/giovanna-neves-rodrigues-6927262b8/" ><img align="center" alt="linkedin" width="250" height="60" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 <p><img  width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3cnZpZjBnbWwzeTZ5bGE4dHp0ZDVqOXEwYWl5cHAxaXViM3Z4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHRP7nAicEggw/200.webp" /></p>
+
+<br>
+
+<h3 align="left">Estudando Atualmente:</h3>
+
+
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"  width="60" height="60"/>
 
 <br>
 
@@ -121,6 +121,8 @@
     </td>
   </tr>
 </table> 
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigicaneves&show_icons=true&locale=en&theme=holi" alt="gigicaneves" /></p>
 
